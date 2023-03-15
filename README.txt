@@ -6,3 +6,4 @@
     Pentru fiecare telefon mobil se rețin următoarele date: model, an fabricație etc. 
     De asemenea fiecare telefon mobil este afiliat unei licitații ce cuprinde următoarele detalii: durata licitații, vânzătorul, prețul licitație etc.
     Pentru licitațiile finalizate există o evidență a acestora în care se stochează: cumpărătorul, data, preț final etc.
+    In documentul Proiect exista o prezentare a aplicatiei si a bazei de date.
